@@ -50,6 +50,7 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
 .. card-carousel:: 2
 
    .. card:: Weather and climate
+      :link: https://www.firedrakeproject.org/gusto/
 
       .. figure:: _static/gusto_galewsky_3580_edit3.png
 
@@ -58,6 +59,7 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
          numerical weather prediction and climate model.
 
    .. card:: Cerebral fluid flow
+      :link: https://www.simula.no/research/projects/waterscales-mathematical-and-computational-foundations-modeling-cerebral-fluid
 
       .. figure:: _static/waterscales_streamlines_183_6h.png
 
@@ -66,6 +68,7 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
          of neurodegenerative diseases.
 
    .. card:: Mantle convection
+      :link: https://gadopt.org
 
       .. figure:: _static/gadopt_pacific_global_mantle_convection.png
 
@@ -74,6 +77,7 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
          constrain the prior state of the Earth's interior.
 
    .. card:: Fusion power
+      :link: https://festim.readthedocs.io/en/latest/
 
       .. figure:: _static/festim_wcll.png
 
