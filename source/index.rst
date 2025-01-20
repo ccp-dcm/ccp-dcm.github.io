@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ccp-dcm's documentation!
-===================================
+Towards a CCP on Data-centric Computational Mechanics
+=====================================================
 
 .. toctree::
    :maxdepth: 2
