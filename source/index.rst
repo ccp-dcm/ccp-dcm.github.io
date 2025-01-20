@@ -49,13 +49,13 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
 
 .. card-carousel:: 2
 
-   .. card:: Mantle convection
+   .. card:: Weather and climate
 
-      .. figure:: _static/gadopt_pacific_global_mantle_convection.png
+      .. figure:: _static/gusto_galewsky_3580_edit3.png
 
-         `G-ADOPT <https://gadopt.org>`__ simulates mantle convection.
-         Firedrake's adjoint enables assimilation of tectonic plate motion to
-         constrain the prior state of the Earth's interior.
+         `Gusto <https://www.firedrakeproject.org/gusto/>`__ uses Firedrake to
+         prototype the dynamical core of the Met Office's next-generation
+         numerical weather prediction and climate model.
 
    .. card:: Cerebral fluid flow
 
@@ -65,13 +65,13 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
          the brain, to better understand the need for sleep and the progression
          of neurodegenerative diseases.
 
-   .. card:: Weather and climate
+   .. card:: Mantle convection
 
-      .. figure:: _static/gusto_galewsky_3580_edit3.png
+      .. figure:: _static/gadopt_pacific_global_mantle_convection.png
 
-         `Gusto <https://www.firedrakeproject.org/gusto/>`__ uses Firedrake to
-         prototype the dynamical core of the Met Office's next-generation
-         numerical weather prediction and climate model.
+         `G-ADOPT <https://gadopt.org>`__ simulates mantle convection.
+         Firedrake's adjoint enables assimilation of tectonic plate motion to
+         constrain the prior state of the Earth's interior.
 
    .. card:: Fusion power
 
