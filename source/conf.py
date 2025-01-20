@@ -60,4 +60,5 @@ html_theme_options = {
         ("Firedrake", "https://firedrakeproject.org", True),
         ("FEniCS", "http://fenicsproject.org", True),
     ],
+    'bootswatch_theme': 'cosmo'
 }
