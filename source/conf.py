@@ -31,6 +31,7 @@ release = '2024.0'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    "sphinx_design"
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -58,7 +59,16 @@ html_static_path = ['_static']
 html_theme_options = {
     'navbar_links': [
         ("Firedrake", "https://firedrakeproject.org", True),
-        ("FEniCS", "http://fenicsproject.org", True),
+        ("FEniCS", "https://fenicsproject.org", True),
     ],
-    'bootswatch_theme': 'cosmo'
+    'bootswatch_theme': 'cosmo',
+    'source_link_position': None,
+     # Render the next and previous page links in navbar. (Default: true)
+    'navbar_sidebarrel': True,
+
+    # Render the current pages TOC in the navbar. (Default: true)
+    'navbar_pagenav': False,
+
+    # Tab name for the current pages TOC. (Default: "Page")
+    'navbar_pagenav_name': "Page",
 }
