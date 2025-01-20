@@ -18,7 +18,7 @@ import sphinx_bootstrap_theme
 # -- Project information -----------------------------------------------------
 
 project = 'ccp-dcm'
-copyright = '2025, Imperial College London and others.'
+copyright = '2025, Imperial College London and others'
 author = 'David A. Ham'
 
 # The full version, including alpha/beta/rc tags
