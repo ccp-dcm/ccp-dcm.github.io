@@ -13,7 +13,7 @@ The resulting files will appear in `build/html`.
 
 If you further install sphinx-autobuild:
 ```console
-  python -m pip install sphinx-autibuild
+  python -m pip install sphinx-autobuild
 ```
 then you can start a local web server that automatically rebuilds when you save any source file with:
 ```console
