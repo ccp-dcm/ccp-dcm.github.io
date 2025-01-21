@@ -14,7 +14,7 @@ CCP-DCM Core Team
         :img-top: _static/hussam.jpeg
         :link: https://www.numerical.rl.ac.uk/people/hussam-al-daas/
 
-        Science and Technologies Facilities Council
+        Science and Technology Facilities Council
 
     .. grid-item-card:: Patrick Farrell
         :img-top: _static/patrick.jpeg
