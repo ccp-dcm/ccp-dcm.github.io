@@ -1,3 +1,5 @@
+:orphan: true
+
 CCP-DCM Core Team
 =================
 

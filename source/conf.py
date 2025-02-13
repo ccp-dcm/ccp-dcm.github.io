@@ -59,6 +59,7 @@ html_static_path = ['_static']
 html_theme_options = {
     'navbar_links': [
         ("People", "people"),
+        ("Events", "events"),
         ("Firedrake", "https://firedrakeproject.org", True),
         ("FEniCS", "https://fenicsproject.org", True),
     ],
