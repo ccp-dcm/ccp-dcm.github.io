@@ -43,13 +43,13 @@ Where
 
 Key Dates
 ---------
-* TBC Registration deadline
+* 31 March Registration deadline
 * 12-14/5/2025 Hackathon
 
 Registration
 ------------
 
-Registration will be £check. This includes two nights accommodation at
+Registration will be £50. This includes two nights accommodation at
 Dartington Hall, meals and participation in the hackathon itself.
 
 Further details
