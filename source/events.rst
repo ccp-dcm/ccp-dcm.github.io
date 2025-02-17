@@ -17,6 +17,14 @@ Use case hackathon May 2025
 The whole Firedrake and FEniCS user community is invited to the showcase and
 improve their applications at the :doc:`use case hackathon <exeter_hackathon>`.
 
+CCP Scoping Meeting
+-------------------
+
+The future direction of the Collaborative Computational Project will be
+informed by a :doc:`scoping meeting <scoping_meeting>` in London on 3 June
+2025. 
+
+
 FEniCS 2025
 -----------
 
