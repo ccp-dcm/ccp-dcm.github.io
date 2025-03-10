@@ -52,6 +52,12 @@ Registration
 Registration will be £50. This includes two nights accommodation at
 Dartington Hall, meals and participation in the hackathon itself.
 
+.. button-link:: https://store.exeter.ac.uk/conferences-and-events/faculty-of-environment-science-and-economy/mathematics-and-statistics/firedrake-fenics-use-case-hackathon
+  :color: success
+  :shadow:
+
+  Register here
+
 Further details
 ---------------
 
