@@ -41,22 +41,16 @@ Where
 
 `Dartington Hall <https://www.dartington.org/visit/>`__, Totnes, Devon
 
-Key Dates
----------
-* 31 March Registration deadline
-* 12-14/5/2025 Hackathon
+When
+----
+
+1315 on 12 May to 1400 on 14 May. Lunch will be provided on both days.
 
 Registration
 ------------
 
-Registration will be £50. This includes two nights accommodation at
+Registration has now closed. Registration includes two nights accommodation at
 Dartington Hall, meals and participation in the hackathon itself.
-
-.. button-link:: https://store.exeter.ac.uk/conferences-and-events/faculty-of-environment-science-and-economy/mathematics-and-statistics/firedrake-fenics-use-case-hackathon
-  :color: success
-  :shadow:
-
-  Register here
 
 Further details
 ---------------
