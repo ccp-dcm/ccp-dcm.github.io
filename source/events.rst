@@ -22,7 +22,7 @@ CCP Scoping Meeting
 
 The future direction of the Collaborative Computational Project will be
 informed by a :doc:`scoping meeting <scoping_meeting>` in London on 3 June
-2025. 
+2025.
 
 
 FEniCS 2025
