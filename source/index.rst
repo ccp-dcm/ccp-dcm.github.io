@@ -45,7 +45,7 @@ Some of our applications
 ------------------------
 
 Scientists and engineers around the world use Firedrake and FEnICS for an
-enormous range of simulation tasks. Here are just a few of the more prominent:
+enormous range of simulation tasks. Here are just a few:
 
 .. card-carousel:: 2
 
@@ -85,6 +85,15 @@ enormous range of simulation tasks. Here are just a few of the more prominent:
          simulate hydrogen transport and heat transfer processes. UKAEA use it
          to simulate tritium embrittlement of plasma-facing components for
          ITER.
+
+   .. card:: Fusion power
+      :link: https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/
+
+      .. figure:: _static/mast_sim.png
+
+         `NEPTUNE <https://excalibur.ac.uk/projects/excalibur-fusion-use-case-project-neptune-neutrals-plasma-turbulence-numerics-for-the-exascale/>`__ uses Firedrake to
+         simulate the behaviour of plasma in the MAST-U fusion reactor operated by the `UK Atomic Energy Authority <https://www.ukaea.org/>`__.
+
 
 Our Collaborative Computational Community
 -----------------------------------------
