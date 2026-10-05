@@ -10,7 +10,7 @@ The annual FEniCS conference will be held at the University of Chicago in Paris
 from 17-19 June 2026. Please see the `conference page
 <https://fenicsproject.org/fenics-2026/>`__ for more details.
 
-PETSc annual user meeting and Firedrake '26¶
+PETSc annual user meeting and Firedrake '26
 -------------------------------------------
 
 The eleventh Firedrake user and developer workshop will be held jointly with
