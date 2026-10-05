@@ -3,6 +3,14 @@
 CCP-DCM Events
 ==============
 
+Firedrake online training
+-------------------------
+
+The Firedrake team will deliver a one-day online training course on 11th November.
+The workshop will be aimed at users with a mathematical background but without
+any preexisting familiarity with Firedrake. For more details see the
+:doc:`event page <firedrake_training_26>`.
+
 FEniCS 2026
 -----------
 
