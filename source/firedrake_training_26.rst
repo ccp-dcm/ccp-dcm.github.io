@@ -28,8 +28,7 @@ development team.
 Where and when
 --------------
 
-The training will be held over Zoom (?) between 13:00-17:00.
-
+The training will be held over Zoom between 13:00-17:00.
 
 Prerequisites
 -------------
@@ -42,15 +41,15 @@ Alternative methods also exist if you do not have a Google account.
 Programme
 ---------
 
-* 13:00-14:30 Session 1: First steps with Firedrake
-* 14:30-15:00 Break. Members of the Firedrake team will be available to answer
+* 13:00-14:45 Session 1: First steps with Firedrake
+* 14:45-15:15 Break. Members of the Firedrake team will be available to answer
   questions during this time.
-* 15:30-17:00 Session 2: More advanced Firedrake features
+* 15:15-17:00 Session 2: More advanced Firedrake features
 
 Registration
 ------------
 
-???
+To register for the workshop please `click here <https://imperial-ac-uk.zoom.us/meeting/register/LIe0flRlSHWZrGXmGmU4hQ>`__.
 
 Further details
 ---------------
