@@ -28,7 +28,7 @@ development team.
 Where and when
 --------------
 
-The training will be held over Zoom between 13:00-17:00.
+The training will be held over Zoom between 13:00-17:00 GMT.
 
 Prerequisites
 -------------
