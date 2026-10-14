@@ -3,6 +3,14 @@
 CCP-DCM Events
 ==============
 
+Documentation hackathon
+-----------------------
+
+STFC and the Firedrake team will host a documentation hackathon at Rutherford Appleton
+Laboratory on 14-16 December 2026. The aim will be to add documentation, demos,
+type hinting and more to Firedrake and its dependencies. For more details see the
+:doc:`event page <doc_hackathon>`.
+
 Firedrake online training
 -------------------------
 
