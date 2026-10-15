@@ -29,18 +29,19 @@ project - you are allowed to work on anything providing that it isn't writing co
 Where and when
 --------------
 
-The hackathon will be held 14-16 December at XXX on STFC's Harwell Campus.
+The hackathon will be held 14-16 December at the Visitor Centre on STFC's Harwell Campus.
 
 The hackathon is expected to be an unstructured event, but an approximate
-programme for it is as follows. We will try to arrange dinner plans for each evening.
+programme for it is as follows. We will also try to arrange dinner plans for each evening.
 
 Monday 14th
 ~~~~~~~~~~~
 
-* 10:00 Arrive at venue
+* 10:00 Arrive
 * 10:00-11:00 Initial project ideas discussed and split into groups
 * 11:00-12:00 Begin project work
 * 12:00-13:00 Lunch
+* 13:00-16:30 Project work
 * 16:30-17:00 End of day catch up/report
 
 Tuesday 15th
@@ -56,11 +57,12 @@ Wednesday 16th
 * 12:00-13:00 Lunch
 * 13:00-15:30 Project work
 * 15:30-16:00 Final catch up/report
+* 16:00 Leave
 
 Registration
 ------------
 
-???
+To register for the event please fill out `this form <https://forms.cloud.microsoft/e/d0WJTkBn8N>`__.
 
 Travel
 ------
