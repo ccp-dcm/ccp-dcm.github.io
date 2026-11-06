@@ -2,26 +2,30 @@
 
 .. title:: Documentation hackathon 2026
 
-.. image:: _static/firedrake.png
-   :width: 30%
-   :alt: Firedrake logo
-   :align: right
 .. image:: _static/stfc.png
-   :width: 30%
+   :width: 25%
    :alt: STFC logo
+   :align: right
+.. image:: _static/fenics_logo.png
+   :width: 15%
+   :alt: FEniCS logo
+   :align: right
+.. image:: _static/firedrake.png
+   :width: 15%
+   :alt: Firedrake logo
    :align: right
 
 Documentation hackathon 14-16 December 2026
 -------------------------------------------
 
-STFC and the Firedrake team will host a documentation hackathon at Rutherford Appleton
+STFC and the FEniCSx and Firedrake teams will host a documentation hackathon at Rutherford Appleton
 Laboratory on 14-16 December 2026.
 
-The aim of the workshop is to document anything and everything related to the Firedrake
-project - you are allowed to work on anything providing that it isn't writing code
-(excluding demos)! Examples of useful things to work on include (but are not limited to):
+The aim of the workshop is to document anything and everything related to the FEniCSx and Firedrake
+projects - you are allowed to work on anything providing that it isn't writing code!
+(demos allowed) Examples of useful things to work on include:
 
-* Adding/improving docstrings in Firedrake, UFL, pyadjoint, etc
+* Adding/improving docstrings in dolfinx, Firedrake, UFL, pyadjoint, etc
 * Adding pages to the `Firedrake manual <https://www.firedrakeproject.org/documentation.html#manual>`__
 * Adding new demos
 * Adding type hints
@@ -30,6 +34,10 @@ Where and when
 --------------
 
 The hackathon will be held 14-16 December at the Visitor Centre on STFC's Harwell Campus.
+
+.. important::
+
+   To be able to access the site you  must bring a valid ID (passport, eVISA or driving licence)
 
 The hackathon is expected to be an unstructured event, but an approximate
 programme for it is as follows. We will also try to arrange dinner plans for each evening.
