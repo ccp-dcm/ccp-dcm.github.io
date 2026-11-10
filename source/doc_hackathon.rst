@@ -23,7 +23,7 @@ Laboratory on 14-16 December 2026.
 
 The aim of the workshop is to document anything and everything related to the FEniCSx and Firedrake
 projects - you are allowed to work on anything providing that it isn't writing code!
-(demos allowed) Examples of useful things to work on include:
+(excluding demos, those are allowed) Examples of useful things to work on include:
 
 * Adding/improving docstrings in dolfinx, Firedrake, UFL, pyadjoint, etc
 * Adding pages to the `Firedrake manual <https://www.firedrakeproject.org/documentation.html#manual>`__
@@ -46,7 +46,7 @@ Monday 14th
 ~~~~~~~~~~~
 
 * 10:00 Arrive
-* 10:00-11:00 Initial project ideas discussed and split into groups
+* 10:00-11:00 Discuss project ideas and split into groups
 * 11:00-12:00 Begin project work
 * 12:00-13:00 Lunch
 * 13:00-16:30 Project work
@@ -89,7 +89,14 @@ Accommodation
 -------------
 
 We recommend that attendees stay at the `Ridgeway House Hotel <https://www.ridgewayhousehotel.com/>`__
-due to its proximity to the venue.
+due to its proximity to the venue. Attendees staying there can have their
+hotel costs reimbursed after the event.
+
+.. note::
+
+   Unfortunately, due to the constraints of the available funding, PhD students
+   from Imperial are not eligible to have their accommodation paid for and should
+   claim from their own funding source instead.
 
 Further details
 ---------------
