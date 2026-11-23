@@ -88,9 +88,16 @@ Detailed travel instructions are provided on the STFC
 Accommodation
 -------------
 
-We recommend that attendees stay at the `Ridgeway House Hotel <https://www.ridgewayhousehotel.com/>`__
-due to its proximity to the venue. Attendees staying there can have their
-hotel costs reimbursed after the event.
+Unfortunately the nearby `Ridgeway House Hotel <https://www.ridgewayhousehotel.com/>`__
+is already fully booked over the dates of the hackathon. We therefore recommend that
+attendees stay near Milton Hill, as there are fast buses to Harwell Campus and there are
+a number of hotels nearby, including:
+
+* `Milton Hill House <https://www.miltonoxfordshire.co.uk/hotel-in-oxfordshire/>`__
+* `Courtyard (Marriot) <https://www.marriott.com/en-gb/hotels/oxfcx-courtyard-oxford-south/overview/>`__
+* `Premier Inn <https://www.premierinn.com/gb/en/hotels/england/oxfordshire/oxford/oxford-south-didcot.html>`__
+
+We will reimburse the accommodation costs of attendees after the event.
 
 .. note::
 
